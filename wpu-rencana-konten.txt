@@ -4,7 +4,9 @@ RENCANA KONTEN WPU PEMROGRAMAN
 -. Belajar JavaScript
   * ES6
   * Framework JavaScript
+    ^ Angular
+    ^ React
 -. Belajar PHP
 -. Belajar Python lebih dalam
   * Belajar DataSciens
--. Belajar mencintaimu
+
