@@ -11,4 +11,4 @@ RENCANA KONTEN WPU PEMROGRAMAN
     ^ Laravel
 -. Belajar Python lebih dalam
   * Belajar DataSciens
--. Belajar mencintaimu
+Note : Sukses merupakan perjuangan dari kegigihan
