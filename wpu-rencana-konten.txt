@@ -7,7 +7,7 @@ RENCANA KONTEN WPU PEMROGRAMAN
     ^ Vue
     ^ React
 -. Belajar PHP
-  * Framwork PHP
+  * Framework PHP
     ^ Laravel
 -. Belajar Python lebih dalam
   * Belajar DataSciens
