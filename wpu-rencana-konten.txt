@@ -1,6 +1,10 @@
 RENCANA KONTEN WPU PEMROGRAMAN
 
 -. Belajar CodeIniter
+-. Belajar JavaScript
+  * ES6
+  * Framework JavaScript
 -. Belajar PHP
 -. Belajar Python lebih dalam
+  * Belajar DataSciens
 -. Belajar mencintaimu
